@@ -2,17 +2,22 @@
 
 ![Screenshot 2024-07-23 194908](https://github.com/user-attachments/assets/b3c62d7d-4f84-4ee8-9713-86b337c2bb73)
 
+## Project Description
+This project uses ```Angular.js```, ```Node.js```, and a ```RESTful API``` to deliver live weather information for any supported country.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.4.
+The goal of this project is to gain experience working with ```Angular.js```.
 
-## Development server
+## How to Install and Run the Project
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+1. Clone the repository to your local machine
+2. Navigate to the project directory - ```cd WeatherApp```
+3. Install the required dependencies - ```npm i```
+4. Start the React app - ```ng serve```
 
-## Code scaffolding
+## Credits
+- Project created by Vicky Sekhon
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## License
+This project is licensed under the MIT License.
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Feel free to contribute and improve upon this project. Happy coding!  
