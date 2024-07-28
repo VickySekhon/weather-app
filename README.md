@@ -3,7 +3,7 @@
 ![Screenshot 2024-07-23 194908](https://github.com/user-attachments/assets/b3c62d7d-4f84-4ee8-9713-86b337c2bb73)
 
 ## Project Description
-This project uses ```Angular.js```, ```Node.js```, and a ```RESTful API``` to deliver ```live``` weather information for any supported ```country```.
+This project uses ```Angular.js```, ```Node.js```, and a ```RESTful API``` to deliver ```live``` weather information for any supported ```city```.
 
 The goal of this project is to gain experience working with ```Angular.js```.
 
