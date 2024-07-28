@@ -7,6 +7,9 @@ This project uses ```Angular.js```, ```Node.js```, and a ```RESTful API``` to de
 
 The goal of this project is to gain experience working with ```Angular.js```.
 
+## API Details
+I am using the ```https://openweathermap.org/api```
+
 ## How to Install and Run the Project
 
 1. Clone the repository to your local machine
